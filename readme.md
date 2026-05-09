@@ -54,7 +54,7 @@ As the founder of an indie game studio, I oversee the development of several key
 ### 🌐 Community & Collaboration
 
 - **🏰 Four Pixel (4pixel):** Founder and manager of the Superflat Anarchy Minecraft server.
-- **🤝 Collaborators:** Actively working with developers like **MeisDev** and **Andrew (PokemanFran)**.
+- **🤝 Collaborators:** Actively working with developers like **MeisDev** and **Uoc Tamika**.
 
 ---
 
