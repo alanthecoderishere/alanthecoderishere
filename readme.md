@@ -7,6 +7,10 @@ I specialize in building high-performance tools, custom game engines, and immers
 
 ---
 
+> **"If a modern game couldn't be played on AT LEAST Windows XP, then it's not an optimized game."** — Alan
+
+---
+
 ### 🏢 Studio Profile: JavaFabulous Studios
 As the founder of an indie game studio, I oversee the development of several key projects, focusing on technical innovation and minimalist design.
 
