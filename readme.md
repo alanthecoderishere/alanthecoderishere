@@ -21,8 +21,8 @@ Passionate game developer with a deep commitment to **optimization, minimalist d
 As the founder of an indie game studio, I oversee the development of several key projects, focusing on technical innovation and minimalist design.
 
 - **Active Projects:** 
-  - **Rubytale** (v1.26.9) - A feature-rich Minecraft mod pack emphasizing balance and performance
   - **MiniVenture** - A lightweight exploration-focused game project
+  - **Rubytale** (v1.26.9) - A feature-rich Minecraft like game emphasizing balance and performance
   - **Fireworks Engine** - Custom high-performance game engine (in active development)
 - **Vision:** Delivering smooth gaming experiences through heavy optimization and custom-built tech stacks.
 
