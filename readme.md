@@ -7,7 +7,7 @@ I specialize in building high-performance tools, custom game engines, and immers
 
 ---
 
-> **"If a modern game couldn't be played on AT LEAST Windows XP, then it's not an optimized game."** — Alan
+> I have a quote: **"If a modern game couldn't be played on AT LEAST Windows XP, then it's not an optimized game."** — Alan
 
 ---
 
